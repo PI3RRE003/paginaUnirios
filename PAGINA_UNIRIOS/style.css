@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cabecalho{
+        width: 800px;
+        margin: 0 auto;
+        background-color: #1B3E6A;
+        padding-top: 30px;
+        padding-bottom: 30px;
+}
+     
+
+#cabecalhoLaranja{
+    width: 800px;
+    background-color: #FF9900;
+    min-height: 10px;
+    margin-bottom: 30px;
+    margin-left: 360px;
+}
+
+#logoUnirios{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+
+#corpo{
+    max-width: 800px;
+    margin: 0 auto;
+    
+}
+
+#corpo img{
+    display: block;
+    width: 300px;
+    float: left;
+    margin-right: 15px;
+    border-radius: 20px;
+    
+}
+
+#corpo p{
+    margin-bottom: 30px;
+    position: relative;
+    bottom: 1px;
+
+    
+}
+
+#meioCorpo p{
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 30px;
+    
+}
+
+#fimCorpo img {
+    width: 300px;
+    float: right;
+    margin-left: 15px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 30px;
+
+}
+
+#fimCorpo{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#fimCorpo p{
+    position: relative;
+    bottom: 40px;
+}
+
+
+#rodape p{
+    width: 800px;
+    background-color: #FF9900;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    white-space: pre;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
